@@ -1,0 +1,6 @@
+[submodule "APDuinOS"]
+	path = APDuinOS
+	url = git://github.com/srejbi/APDuinOS_library.git
+[submodule "apduinos-headless"]
+	path = apduinos-headless
+	url = git://github.com/srejbi/APDuinOS_headless.git
