@@ -3,13 +3,22 @@ APDuinoProject-arduino
 
 Eclipse+AVR plugin based workspace with Arduino_Mega_2560 configuration
 
+This is the official repo for the APDuino Project's Arduino sources.
+For more information, visit the APDuino Project at http://apduino.org.
+
 Pre-requisites:
 * Arduino IDE 1.0 installed, USB communications to Arduino Mega 2560 established
 * Eclipse + AVR plugin installed
 * git or Eclipse egit plugin installed
 
-Install
-=======
+Install from sources
+====================
+
+Normally the APDuino Project aims to provide a programming free experience (for ready-to-flash builds visit http://apduino.com/firmwares).
+However, if you need to build from sources (eg. trying to use hardware components not supported by the official APDuinOS releases), this repo is for you.
+_(And 3 more, pulled in as submodules.)_
+
+There are two main methods to get & build the sources (once pre-requisites met):
 
 # mostly shell-based with git:
 <pre>
