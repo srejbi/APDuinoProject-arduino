@@ -11,6 +11,17 @@ Pre-requisites:
 * Eclipse + AVR plugin installed
 * git or Eclipse egit plugin installed
 
+Links:
+=====
+* http://arduino.cc/en/Main/Software - download Arduino 1.0 (find it under the Previous IDE versions)
+* http://www.arduino.cc/playground/code/eclipse
+* http://www.baeyens.it/eclipse/	- AVR Plugin by Jantje 
+* http://www.baeyens.it/eclipse/Install.html	- Eclipse+AVR plugin install guide by Jantje
+* "If you would like to support Jantje; buy Jantje an Arduino.":http://www.baeyens.it/eclipse/donate.html
+* http://git-scm.com/
+* http://www.eclipse.org/egit/	- EGit plugin
+* http://www.vogella.com/articles/EGit/article.html - a nice EGit tutorial
+
 Install from sources
 ====================
 
