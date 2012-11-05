@@ -12,18 +12,18 @@ Install
 =======
 
 # mostly shell-based with git:
-<pre>
-mkdir <a new workspace dir>
-cd <workspace dir>
+
+mkdir ${WORKSPACE_DIR}
+cd ${WORKSPACE_DIR}
 
 # symlink or copy Arduino IDE files, choose between the following
-ln -s <path to Arduino IDE 1.0> ./arduino	# symlink Arduino IDE 1.0 to ${WORKSPACE_DIR}/arduino
-cp -r <path to Arduino IDE 1.0> ./arduino	# copy Arduino IDE 1.0 to ${WORKSPACE_DIR}/arduino
+ln -s [path to Arduino IDE 1.0] ./arduino	# symlink Arduino IDE 1.0 to ${WORKSPACE_DIR}/arduino
+cp -r [path to Arduino IDE 1.0] ./arduino	# copy Arduino IDE 1.0 to ${WORKSPACE_DIR}/arduino
 
 git clone https://github.com/srejbi/APDuinoProject-arduino.git
 git submodule init
 git submodule update
-</pre>
+
 
 # In Eclipse, using egit
 * switch to a new workspace
