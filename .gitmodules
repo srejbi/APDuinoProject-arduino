@@ -4,3 +4,6 @@
 [submodule "apduinos-headless"]
 	path = apduinos-headless
 	url = git://github.com/srejbi/APDuinOS_headless.git
+[submodule "Arduino_Mega_2560_or_Mega_ADK"]
+	path = Arduino_Mega_2560_or_Mega_ADK
+	url = https://github.com/srejbi/APDuinOS-Arduino_Mega_2560_or_Mega_ADK.git
