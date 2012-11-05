@@ -55,3 +55,5 @@ git submodule update
 > * _Also, select the 'Arduino Mega 2560 or Mega ADK'/'16000000' values on the Arduino project prefs of the 'arduino_headless' project in the workspace._
 
 > _Build should work after._
+
+A more detailed guide can be found here: http://apduino.org/projects/apduinos/wiki/Building_From_Sources
